@@ -117,9 +117,9 @@ OPEN TO     =  SOC Analyst (L1/L2)  |  Junior Pentester
 
 ## `> ls /projects --sort=impact`
 
-**▶ Enterprise Cybersecurity Homelab — pfSense · Wazuh · VMware**
+**▶ mnclab — Enterprise Cybersecurity Homelab**
 
-> A fully segmented, enterprise-grade security lab running entirely on a single Windows 11 laptop — mirroring real SOC and enterprise network infrastructure.
+> A fully functional enterprise-grade security environment built on a single laptop, simulating the network architecture, security controls, and monitoring infrastructure of a real multinational corporation.
 
 | Aspect | Detail |
 |--------|--------|
@@ -128,41 +128,38 @@ OPEN TO     =  SOC Analyst (L1/L2)  |  Junior Pentester
 | **SIEM** | Custom Wazuh `local_decoder.xml` rules parsing pfSense `filterlog` syslog events |
 | **Security** | NGINX + ModSecurity WAF · IKEv2 IPSec VPN · ACL-enforced VLAN segmentation |
 | **Offensive** | Kali Linux attack zone targeting DVWA inside the DMZ — isolated from production VLANs |
-| **Repo** | ⭐ [`CybNick/enterprise-homelab`](https://github.com/CybNick) |
+| **Repo** | ⭐ [`CybNick/mnclab`](https://github.com/CybNick/mnclab) |
 
-**▶ Cowrie Honeypot — SSH/Telnet Threat Intelligence**
+**▶ aegis — Security Automation & Threat Detection**
 
-> Passive attacker intelligence system capturing real-world TTPs, credential stuffing patterns, and malicious payloads — all correlated live in Wazuh SIEM.
-
-| Aspect | Detail |
-|--------|--------|
-| **Stack** | Cowrie · Python · Ubuntu Server · Wazuh Agent |
-| **Isolation** | Dedicated honeypot VLAN — fully airgapped from production zones |
-| **Integration** | JSON honeypot logs piped to Wazuh for real-time rule-based alert correlation |
-| **Intelligence** | Brute-force pattern analysis · payload collection · attacker geolocation |
-| **Repo** | ⭐ [`CybNick/cowrie-honeypot`](https://github.com/CybNick) |
-
-**▶ Web Application Pentest Lab — DVWA · Burp Suite · OWASP**
-
-> Fully containerised vulnerable web app environment deployed inside the homelab DMZ for systematic OWASP Top 10 attack practice.
+> Python-based security tooling for automated threat detection, log analysis, and SOC workflow automation.
 
 | Aspect | Detail |
 |--------|--------|
-| **Stack** | DVWA · Docker · Burp Suite · OWASP ZAP · Kali Linux · ModSecurity WAF |
-| **Coverage** | SQL Injection · XSS · CSRF · File Upload · Command Injection |
-| **WAF Testing** | ModSecurity bypass testing with documented attack chains and evasion techniques |
-| **Writeups** | Attack chains documented as markdown reports in repo |
-| **Repo** | ⭐ [`CybNick/pentest-lab`](https://github.com/CybNick) |
+| **Stack** | Python · Wazuh Agent · Linux · Bash |
+| **Purpose** | Automated alert triage, log correlation, and security event processing |
+| **Integration** | Feeds into Wazuh SIEM pipeline inside the mnclab homelab environment |
+| **Repo** | ⭐ [`CybNick/aegis`](https://github.com/CybNick/aegis) |
 
-**▶ Full-Stack Security Portfolio — React · Node.js · MongoDB**
+**▶ aegisv2 — Aegis Rewritten & Extended**
 
-> Personal dual-identity portfolio showcasing cybersecurity expertise and web development — built from scratch, no templates.
+> Improved second iteration of the Aegis security automation framework with expanded detection capabilities.
 
 | Aspect | Detail |
 |--------|--------|
-| **Stack** | React · Node.js · Express · MongoDB · CSS3 |
-| **Features** | Particle canvas · custom cursor · scroll animations · security toolkit section |
-| **Repo** | ⭐ [`CybNick/portfolio`](https://github.com/CybNick) |
+| **Stack** | Python · Bash · Linux |
+| **Improvements** | Refactored detection engine · extended rule coverage · cleaner modular architecture |
+| **Repo** | ⭐ [`CybNick/aegisv2`](https://github.com/CybNick/aegisv2) |
+
+**▶ cehpractice — CEH Study Lab & Exploit Notes**
+
+> Hands-on CEH exam preparation — practical exercises, tool walkthroughs, and documented attack techniques aligned to the CEH curriculum.
+
+| Aspect | Detail |
+|--------|--------|
+| **Stack** | Kali Linux · Nmap · Metasploit · Burp Suite · Wireshark · OWASP ZAP |
+| **Coverage** | Reconnaissance · Scanning · Exploitation · Post-Exploitation · Web App Attacks |
+| **Repo** | ⭐ [`CybNick/cehpractice`](https://github.com/CybNick/cehpractice) |
 
 ---
 
