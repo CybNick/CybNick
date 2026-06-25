@@ -45,16 +45,16 @@
 BSc Computer Science student from **Palakkad, Kerala** — building toward a career in cybersecurity at multinational corporations. I architect enterprise-grade security labs, engineer threat detection pipelines, and practise ethical hacking daily. My work sits at the intersection of **offensive security**, **blue team operations**, and **infrastructure engineering**.
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  ROLE      →  Cybersecurity Student & Security Researcher        ║
-║  DEGREE    →  BSc Computer Science · MG University · Kerala      ║
-║  CERT      →  Certified Ethical Hacker (CEH) · EC-Council        ║
-║  DOMAIN    →  Network Security  ·  SIEM  ·  Ethical Hacking      ║
-║  HOMELAB   →  pfSense · Wazuh SIEM · VMware · 7-Zone Network     ║
-║  STACK     →  Python · Bash · Linux · Docker · Kali              ║
-║  OPEN TO   →  SOC Analyst (L1/L2)  ·  Junior Pentester           ║
-║              Security Intern @ MNC  ·  Remote / Kerala-based     ║
-╚══════════════════════════════════════════════════════════════════╝
+$ cat .profile
+
+ROLE        =  Cybersecurity Student & Security Researcher
+DEGREE      =  BSc Computer Science · University of Calicut · Kerala
+CERT        =  Certified Ethical Hacker (CEH) · EC-Council
+DOMAIN      =  Network Security  |  SIEM  |  Ethical Hacking
+HOMELAB     =  pfSense · Wazuh SIEM · VMware · 7-Zone Segmented Network
+STACK       =  Python · Bash · Linux · Docker · Kali
+OPEN TO     =  SOC Analyst (L1/L2)  |  Junior Pentester
+              Security Intern @ MNC  |  Remote / Kerala-based
 ```
 
 ---
@@ -130,8 +130,6 @@ BSc Computer Science student from **Palakkad, Kerala** — building toward a car
 | **Offensive** | Kali Linux attack zone targeting DVWA inside the DMZ — isolated from production VLANs |
 | **Repo** | ⭐ [`CybNick/enterprise-homelab`](https://github.com/CybNick) |
 
----
-
 **▶ Cowrie Honeypot — SSH/Telnet Threat Intelligence**
 
 > Passive attacker intelligence system capturing real-world TTPs, credential stuffing patterns, and malicious payloads — all correlated live in Wazuh SIEM.
@@ -144,8 +142,6 @@ BSc Computer Science student from **Palakkad, Kerala** — building toward a car
 | **Intelligence** | Brute-force pattern analysis · payload collection · attacker geolocation |
 | **Repo** | ⭐ [`CybNick/cowrie-honeypot`](https://github.com/CybNick) |
 
----
-
 **▶ Web Application Pentest Lab — DVWA · Burp Suite · OWASP**
 
 > Fully containerised vulnerable web app environment deployed inside the homelab DMZ for systematic OWASP Top 10 attack practice.
@@ -157,8 +153,6 @@ BSc Computer Science student from **Palakkad, Kerala** — building toward a car
 | **WAF Testing** | ModSecurity bypass testing with documented attack chains and evasion techniques |
 | **Writeups** | Attack chains documented as markdown reports in repo |
 | **Repo** | ⭐ [`CybNick/pentest-lab`](https://github.com/CybNick) |
-
----
 
 **▶ Full-Stack Security Portfolio — React · Node.js · MongoDB**
 
@@ -183,7 +177,7 @@ Operating a full-time cybersecurity research environment focused on blue team en
 - Operated Cowrie SSH/Telnet honeypot in an isolated VLAN — captured live attacker TTPs and correlated alerts to Wazuh in real time
 - Built web application pentest lab (DVWA + Burp Suite) inside the DMZ; documented OWASP Top 10 attack chains and ModSecurity WAF bypass techniques
 - Configured IKEv2 IPSec VPN and performed packet-level traffic analysis using Wireshark
-- Practicing ethical hacking through CEH curriculum, CTF challenges, and TryHackMe rooms
+- Practising ethical hacking through CEH curriculum, CTF challenges, and TryHackMe rooms
 
 `Python` `Bash` `pfSense` `Wazuh` `Kali Linux` `Docker` `VMware` `Burp Suite` `Nmap` `Metasploit` `Wireshark`
 
@@ -199,7 +193,7 @@ Operating a full-time cybersecurity research environment focused on blue team en
 | ▮ **Honeypot Operator** | Cowrie SSH/Telnet honeypot with live Wazuh threat correlation |
 | ▮ **Web Pentester** | DVWA + Burp Suite lab covering OWASP Top 10 attack chains |
 | ▮ **Full-Stack Developer** | Security-focused portfolio — React · Node · MongoDB |
-| ▮ **BSc CS Student** | Computer Science · MG University · Kerala |
+| ▮ **BSc CS Student** | Computer Science · University of Calicut · Kerala |
 
 ---
 
@@ -207,7 +201,7 @@ Operating a full-time cybersecurity research environment focused on blue team en
 
 <div align="center">
 
-[![BSc CS](https://img.shields.io/badge/BSc_Computer_Science-MG_University%2C_Kerala-CAFF3C?style=for-the-badge&logo=academia&logoColor=0A0F08&labelColor=CAFF3C)](https://www.mgu.ac.in/)
+[![BSc CS](https://img.shields.io/badge/BSc_Computer_Science-University_of_Calicut%2C_Kerala-CAFF3C?style=for-the-badge&logo=academia&logoColor=0A0F08&labelColor=CAFF3C)](https://uoc.ac.in/)
 &nbsp;
 [![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council_%7C_CEH-0F1A0B?style=for-the-badge&logo=hackthebox&logoColor=CAFF3C&labelColor=0F1A0B)](https://www.eccouncil.org/)
 
@@ -243,20 +237,8 @@ open_to:
   - Security Operations Internship @ MNC
   - Cloud Security Engineer
   - Remote or Palakkad / Kerala-based roles
-  # Available immediately · Freshers welcome · Willing to relocate
+  # Available immediately · Willing to relocate
 ```
-
----
-
-## `> cat coding-profiles.sh`
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-CybNick-CAFF3C?style=for-the-badge&logo=tryhackme&logoColor=0A0F08&labelColor=CAFF3C)](https://tryhackme.com/p/CybNick)
-&nbsp;
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-CybNick-0F1A0B?style=for-the-badge&logo=hackthebox&logoColor=CAFF3C&labelColor=0F1A0B)](https://app.hackthebox.com/profile/CybNick)
-
-</div>
 
 ---
 
@@ -273,16 +255,6 @@ open_to:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CybNick&theme=dark&ring=CAFF3C&fire=8AFF57&currStreakLabel=CAFF3C&sideLabels=E8F5E1&dates=E8F5E1&background=0A0F08&border=CAFF3C&stroke=1A2B1A" />
-
-</div>
-
----
-
-## `> trophy-case --display`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CybNick&theme=matrix&no-frame=true&column=7&margin-w=6&margin-h=6" />
 
 </div>
 
