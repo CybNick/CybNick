@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/BSc_Computer_Science-MG_University%2C_Kerala-CAFF3C?style=flat-square&labelColor=0F1A0B&color=0F1A0B&logoColor=CAFF3C)
+![](https://img.shields.io/badge/BSc_Computer_Science-University_of_Calicut%2C_Kerala-CAFF3C?style=flat-square&labelColor=0F1A0B&color=0F1A0B&logoColor=CAFF3C)
 &nbsp;
 ![](https://img.shields.io/badge/📍_Palakkad%2C_Kerala%2C_India-0F1A0B?style=flat-square&labelColor=0F1A0B&color=0F1A0B)
 &nbsp;
