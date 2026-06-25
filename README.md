@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,10,15,8,0,202,255,60&height=200&section=header&text=Nikhil%20G&fontSize=72&fontColor=CAFF3C&fontAlignY=55&desc=Cybersecurity%20Student%20%B7%20Ethical%20Hacker%20%B7%20Homelab%20Architect&descSize=16&descAlignY=75&descColor=8AFF57&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08,0a0f08,0d1a0b,162b10,0a0f08&fontColor=CAFF3C&text=%3E_%20NIKHIL%20G&fontSize=52&fontAlignY=45&desc=Cybersecurity%20Student%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20Homelab%20Architect&descSize=15&descAlignY=68&descColor=8AFF57&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=800&color=CAFF3C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami+%E2%86%92+Nikhil+G+%7C+BSc+CS+%7C+CEH+%7C+Palakkad%2C+Kerala%2C+India;%24+cat+specialization+%E2%86%92+Network+Security+%7C+SIEM+%7C+Ethical+Hacking;%24+ls+homelab%2F+%E2%86%92+pfSense+%7C+Wazuh+SIEM+%7C+VMware+%7C+7-Zone+Lab;%24+echo+%24TARGET+%E2%86%92+SOC+Analyst+%7C+Pentester+%7C+Security+Engineer+%40+MNC" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=800&color=CAFF3C&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=%24+whoami+%E2%86%92+Nikhil+G+%7C+BSc+CS+%7C+CEH+%7C+Palakkad%2C+Kerala%2C+India;%24+grep+-r+%22skills%22+%E2%86%92+Network+Security+%7C+SIEM+%7C+Ethical+Hacking+%7C+Pentesting;%24+ls+homelab%2F+%E2%86%92+pfSense+%7C+Wazuh+SIEM+%7C+VMware+%7C+7-Zone+Lab" />
 
 </div>
 
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/BSc%20Computer%20Science-0F1A0B?style=flat-square&logo=bookopen&logoColor=CAFF3C&labelColor=0F1A0B&color=0F1A0B)
-&nbsp;
-![](https://img.shields.io/badge/MG%20University%2C%20Kerala-0F1A0B?style=flat-square&logo=googlescholar&logoColor=CAFF3C&labelColor=0F1A0B&color=0F1A0B)
+![](https://img.shields.io/badge/BSc_Computer_Science-MG_University%2C_Kerala-CAFF3C?style=flat-square&labelColor=0F1A0B&color=0F1A0B&logoColor=CAFF3C)
 &nbsp;
 ![](https://img.shields.io/badge/📍_Palakkad%2C_Kerala%2C_India-0F1A0B?style=flat-square&labelColor=0F1A0B&color=0F1A0B)
+&nbsp;
+![](https://img.shields.io/badge/Open_to_Work-SOC_Analyst_%7C_Pentester-CAFF3C?style=flat-square&logo=checkmarx&logoColor=0A0F08&labelColor=CAFF3C&color=CAFF3C)
 
 </div>
 
@@ -27,6 +27,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhilg7503-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=CAFF3C)](https://www.linkedin.com/in/nikhilg7503/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-nikhilg7503%40gmail.com-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=CAFF3C)](mailto:nikhilg7503@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-cybnick.dev-0F1A0B?style=for-the-badge&logo=firefox&logoColor=CAFF3C&labelColor=0F1A0B)](https://github.com/CybNick)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-CybNick-0F1A0B?style=for-the-badge&logo=github&logoColor=CAFF3C&labelColor=0F1A0B)](https://github.com/CybNick)
 
@@ -37,191 +39,208 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CybNick&style=flat-square&color=CAFF3C&label=PROFILE+VIEWS&labelColor=0F1A0B)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/CybNick?style=flat-square&color=CAFF3C&label=FOLLOWERS&labelColor=0F1A0B&logo=github&logoColor=CAFF3C)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/CybNick?style=flat-square&color=CAFF3C&label=STARS&labelColor=0F1A0B&logo=github&logoColor=CAFF3C)
 
 </div>
 
 ---
 
-## `$ cat about.txt`
+## `> whoami`
 
-> BSc Computer Science student from Palakkad, Kerala — building toward a career in cybersecurity at multinational corporations. I architect enterprise-grade homelabs, study threat detection pipelines, and practice ethical hacking. My work lives at the intersection of offensive security and infrastructure engineering.
+BSc Computer Science student from Palakkad, Kerala — building toward a career in cybersecurity at multinational corporations. I architect enterprise-grade homelabs, study threat detection pipelines, and practice ethical hacking. My work sits at the intersection of **offensive security**, **infrastructure engineering**, and **SOC operations**.
 
-```bash
-╔══════════════════════════════════════════════════════════════╗
-║  ROLE     →  Cybersecurity Student & Security Researcher     ║
-║  DEGREE   →  BSc Computer Science · MG University · Kerala   ║
-║  CERTS    →  Certified Ethical Hacker (CEH) · EC-Council     ║
-║  DOMAIN   →  Network Security · SIEM · Ethical Hacking       ║
-║  STACK    →  Python · Bash · Linux · pfSense · Wazuh · Docker║
-║  OPEN TO  →  SOC Analyst · Pentester · Security Engineer     ║
-╚══════════════════════════════════════════════════════════════╝
+```
+$ cat .profile
+
+ROLE        =  Cybersecurity Student & Security Researcher
+DEGREE      =  BSc Computer Science · MG University · Kerala
+CERT        =  Certified Ethical Hacker (CEH) · EC-Council
+DOMAIN      =  Network Security  |  SIEM  |  Ethical Hacking
+HOMELAB     =  pfSense · Wazuh · VMware · 7-Zone Segmented Network
+STACK       =  Python · Bash · Linux · Docker · Kali
+OPEN TO     =  SOC Analyst (L1/L2)  |  Junior Pentester  |  Security Intern @ MNC
+LOCATION    =  Palakkad, Kerala, India  ·  Remote-friendly
 ```
 
 ---
 
-## `$ ls tech-stack/`
+## `> ls /tech-stack`
 
-**Languages & Scripting**
+**[ Languages & Scripting ]**
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,c,php&theme=dark" />
 </p>
 
-**Security & Infrastructure**
+**[ Security & Infrastructure ]**
+
 <p>
-<img src="https://skillicons.dev/icons?i=linux,kali,vim,docker,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,nginx,vim&theme=dark" />
 </p>
 
-**Web & Backend**
+<p>
+<img src="https://img.shields.io/badge/pfSense-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/Wazuh_SIEM-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/Nmap-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/Metasploit-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/Burp_Suite-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/Wireshark-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/VMware_Workstation_Pro-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/Cowrie_Honeypot-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+<img src="https://img.shields.io/badge/ModSecurity_WAF-CAFF3C?style=flat-square&labelColor=0F1A0B" />
+</p>
+
+**[ Web & Backend ]**
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
-**Cloud & DevOps**
+**[ Cloud & DevOps ]**
+
 <p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## `$ cat specializations.conf`
-
-<p>
-<img src="https://img.shields.io/badge/SIEM_Engineering-Wazuh_%C2%B7_ELK-CAFF3C?style=flat-square&labelColor=0F1A0B" />
-<img src="https://img.shields.io/badge/Network_Defense-pfSense_%C2%B7_IDS%2FIPS-CAFF3C?style=flat-square&labelColor=0F1A0B" />
-<img src="https://img.shields.io/badge/Ethical_Hacking-CEH_Certified-CAFF3C?style=flat-square&labelColor=0F1A0B" />
-<img src="https://img.shields.io/badge/Homelab_Architect-7_Zone_Network-CAFF3C?style=flat-square&labelColor=0F1A0B" />
-<img src="https://img.shields.io/badge/Web_App_Security-OWASP_%C2%B7_WAF_%C2%B7_DVWA-CAFF3C?style=flat-square&labelColor=0F1A0B" />
-<img src="https://img.shields.io/badge/Threat_Detection-SOC_%C2%B7_Log_Analysis-CAFF3C?style=flat-square&labelColor=0F1A0B" />
-<img src="https://img.shields.io/badge/Virtualization-VMware_Workstation_Pro-CAFF3C?style=flat-square&labelColor=0F1A0B" />
-</p>
-
----
-
-## `$ cat expertise.md`
+## `> cat security-expertise.json`
 
 | Domain | Proficiency | Details |
 |--------|------------|---------|
-| ⚡ Network Security | `████████░░` Advanced | pfSense · VLANs · ACLs · IDS/IPS · Zone Segmentation |
-| ⚡ SIEM & Detection | `███████░░░` Intermediate+ | Wazuh · Syslog pipelines · Custom decoder rules |
-| ⚡ Ethical Hacking | `███████░░░` Intermediate+ | CEH · Nmap · Metasploit · Burp Suite · OWASP Top 10 |
-| ⚡ Web Development | `████████░░` Advanced | React · Node.js · Express · REST APIs · MongoDB |
-| ⚡ Web App Security | `██████░░░░` Intermediate | SQLi · XSS · CSRF · DVWA · ModSecurity WAF |
-| ⚡ Cloud & DevOps | `█████░░░░░` Developing | AWS · Docker · Containerized deployments |
+| **Network Defense** | `████████░░ Advanced` | pfSense · VLANs · ACLs · IDS/IPS · 7-Zone Segmentation |
+| **SIEM Engineering** | `███████░░░ Intermediate+` | Wazuh · Syslog pipelines · Custom `local_decoder.xml` rules |
+| **Ethical Hacking** | `███████░░░ Intermediate+` | CEH · Nmap · Metasploit · Burp Suite · OWASP Top 10 |
+| **Web App Security** | `██████░░░░ Intermediate` | SQLi · XSS · CSRF · DVWA · ModSecurity WAF |
+| **Threat Detection** | `███████░░░ Intermediate+` | SOC workflows · Log analysis · Honeypot TTP correlation |
+| **Cloud & DevOps** | `█████░░░░░ Developing` | AWS · Docker · Containerized lab deployments |
 
 ---
 
-## `$ ls -la projects/`
+## `> ls /projects --sort=impact`
 
-<details open>
-<summary><b>⚡ Enterprise Cybersecurity Homelab — pfSense · Wazuh · VMware</b></summary>
-<br/>
+**▶ Enterprise Cybersecurity Homelab — pfSense · Wazuh · VMware**
 
-| | |
-|--|--|
+A fully segmented, enterprise-grade security lab running on a single Windows 11 laptop — designed to mirror real SOC infrastructure.
+
+| Aspect | Detail |
+|--------|--------|
 | **Stack** | VMware Workstation Pro · pfSense · Wazuh SIEM · Kali Linux · Ubuntu · Windows Server |
-| **Architecture** | 7-zone segmented network on a single Windows 11 laptop |
-| **Zones** | WAN · LAN · DMZ · Management · Security · Honeypot · Isolated Lab |
-| **Features** | NGINX + ModSecurity WAF · Cowrie Honeypot · DVWA · IKEv2 IPSec VPN · Wazuh agents |
-| **Contribution** | Designed full topology · deployed pfSense firewall · VLAN segmentation · Wazuh syslog integration with custom `local_decoder.xml` rules |
+| **Architecture** | 7-zone network: WAN · LAN · DMZ · Management · Security · Honeypot · Isolated Lab |
+| **Detection** | Custom Wazuh `local_decoder.xml` rules for pfSense `filterlog` syslog events |
+| **Security** | NGINX + ModSecurity WAF · IKEv2 IPSec VPN · VLAN-enforced zone segmentation |
+| **Repo** | [`github.com/CybNick`](https://github.com/CybNick) |
 
-</details>
+**▶ Cowrie Honeypot — SSH/Telnet Threat Intelligence**
 
-<details>
-<summary><b>⚡ Web Application Pentest Lab — DVWA · Burp Suite · OWASP</b></summary>
-<br/>
+Deployed Cowrie in an isolated VLAN to passively capture attacker TTPs, brute-force patterns, and malicious payloads in real time.
 
-| | |
-|--|--|
-| **Stack** | DVWA · Docker · Burp Suite · OWASP ZAP · Kali Linux |
-| **Purpose** | Isolated vulnerable web app environment for hands-on attack practice |
-| **Coverage** | SQL Injection · XSS · CSRF · File Upload · Command Injection |
-| **Contribution** | Deployed DVWA inside DMZ zone · configured WAF bypass testing · documented attack chains |
-
-</details>
-
-<details>
-<summary><b>⚡ Cowrie Honeypot — SSH/Telnet Threat Intelligence</b></summary>
-<br/>
-
-| | |
-|--|--|
+| Aspect | Detail |
+|--------|--------|
 | **Stack** | Cowrie · Python · Ubuntu · Wazuh Agent |
-| **Purpose** | Capture attacker TTPs, brute-force patterns and malicious payloads in real time |
-| **Integration** | Honeypot logs piped to Wazuh SIEM for real-time threat correlation |
-| **Contribution** | Configured Cowrie in isolated VLAN · tuned detection rules · analyzed attacker behavior |
+| **Integration** | Honeypot logs piped to Wazuh SIEM for real-time alert correlation |
+| **Outcome** | Live attacker behavior analysis · credential harvesting patterns · payload collection |
+| **Repo** | [`github.com/CybNick`](https://github.com/CybNick) |
 
-</details>
+**▶ Web Application Pentest Lab — DVWA · Burp Suite · OWASP**
 
-<details>
-<summary><b>⚡ Full-Stack Security Portfolio — React · Node.js · MongoDB</b></summary>
-<br/>
+Isolated vulnerable web app environment inside the DMZ zone for hands-on offensive security practice.
 
-| | |
-|--|--|
+| Aspect | Detail |
+|--------|--------|
+| **Stack** | DVWA · Docker · Burp Suite · OWASP ZAP · Kali Linux |
+| **Coverage** | SQL Injection · XSS · CSRF · File Upload · Command Injection |
+| **WAF Testing** | ModSecurity bypass testing with documented attack chains |
+| **Repo** | [`github.com/CybNick`](https://github.com/CybNick) |
+
+**▶ Full-Stack Security Portfolio — React · Node.js · MongoDB**
+
+Personal dual-identity portfolio showcasing cybersecurity expertise and web development skills.
+
+| Aspect | Detail |
+|--------|--------|
 | **Stack** | React · Node.js · Express · MongoDB · CSS3 |
-| **Purpose** | Dual-identity portfolio showcasing cybersecurity + web development |
 | **Features** | Particle canvas · custom cursor · scroll animations · security toolkit section |
-| **Contribution** | Built from scratch — design, frontend, backend, deployment |
-
-</details>
-
----
-
-## `$ git log --oneline experience`
-
-```
-[PRESENT]  Self-Directed Security Researcher · Palakkad, Kerala
-           ├─ Architecting 7-zone enterprise homelab on VMware Workstation Pro
-           ├─ Deploying & tuning Wazuh SIEM with pfSense syslog pipeline
-           ├─ Practising ethical hacking via CEH curriculum & CTF challenges
-           ├─ Building full-stack web applications as portfolio artifacts
-           └─ Studying SOC workflows, threat hunting & network forensics
-
-[ONGOING]  Independent Security Research
-           ├─ Custom Wazuh decoder rules for pfSense filterlog events
-           ├─ Cowrie honeypot deployment & attacker TTP analysis
-           ├─ Web app pentesting with DVWA + Burp Suite in isolated lab
-           └─ IKEv2 IPSec VPN configuration & traffic analysis
-```
+| **Built** | From scratch — design, frontend, backend, deployment |
+| **Live** | [`github.com/CybNick`](https://github.com/CybNick) |
 
 ---
 
-## `$ cat achievements.md`
+## `> cat experience.log`
+
+**`[2024 → PRESENT]`** Self-Directed Security Researcher — **Palakkad, Kerala**
+
+Building and operating an enterprise-grade cybersecurity homelab as a full-time research environment.
+
+- Architecting 7-zone segmented network on VMware Workstation Pro with pfSense as the perimeter firewall
+- Deploying and tuning Wazuh SIEM with pfSense syslog pipeline and custom decoder rules for filterlog events
+- Operating Cowrie SSH/Telnet honeypot in an isolated VLAN — capturing live attacker TTPs and correlating alerts
+- Practicing ethical hacking via CEH curriculum, DVWA pentest lab, and CTF challenges
+- Studying SOC workflows, threat hunting, network forensics, and IKEv2 IPSec VPN traffic analysis
+
+`Python` `Bash` `pfSense` `Wazuh` `Kali Linux` `Docker` `VMware` `Burp Suite` `Nmap` `Metasploit`
+
+---
+
+## `> echo $ACHIEVEMENTS`
+
+| Win | Detail |
+|-----|--------|
+| ▮ **CEH Certified** | Certified Ethical Hacker — EC-Council |
+| ▮ **Homelab Architect** | 7-zone enterprise security network running on a single laptop |
+| ▮ **SIEM Engineer** | Wazuh deployment with pfSense syslog + custom `local_decoder.xml` decoder rules |
+| ▮ **Honeypot Operator** | Cowrie SSH/Telnet honeypot with live Wazuh threat correlation |
+| ▮ **Web Pentester** | DVWA + Burp Suite lab covering OWASP Top 10 attack chains |
+| ▮ **Full-Stack Developer** | Security-focused portfolio built in React · Node · MongoDB |
+
+---
+
+## `> git log --oneline /education`
 
 <div align="center">
 
-| Achievement | Detail |
-|-------------|--------|
-| ⚡ CEH Certified | Certified Ethical Hacker — EC-Council |
-| ⚡ Homelab Architect | 7-zone enterprise security network on a single laptop |
-| ⚡ SIEM Engineer | Wazuh deployment with pfSense syslog + custom decoder rules |
-| ⚡ Honeypot Operator | Cowrie SSH/Telnet honeypot with live threat correlation |
-| ⚡ Full-Stack Developer | Security-focused portfolio — React · Node · MongoDB |
-| ⚡ BSc CS Student | Computer Science · MG University · Kerala |
-
-</div>
-
----
-
-## `$ cat education.txt`
-
-<div align="center">
-
-![BSc CS](https://img.shields.io/badge/BSc_Computer_Science-MG_University%2C_Kerala-CAFF3C?style=for-the-badge&logo=graduation-cap&logoColor=0A0F08&labelColor=CAFF3C)
+[![BSc CS](https://img.shields.io/badge/BSc_Computer_Science-MG_University%2C_Kerala-CAFF3C?style=for-the-badge&logo=academia&logoColor=0A0F08&labelColor=CAFF3C)](https://www.mgu.ac.in/)
 &nbsp;
-![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council_%7C_CEH-0F1A0B?style=for-the-badge&logo=hackthebox&logoColor=CAFF3C&labelColor=0F1A0B)
+[![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council_%7C_CEH-0F1A0B?style=for-the-badge&logo=hackthebox&logoColor=CAFF3C&labelColor=0F1A0B)](https://www.eccouncil.org/)
 
 </div>
 
 ---
 
-## `$ cat github-stats.json`
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Wazuh advanced rule authoring & alert correlation
+  - pfSense deep packet inspection & firewall hardening
+  - OSCP / OffSec offensive security pathway
+  - AWS Security fundamentals & cloud threat detection
+
+building:
+  - Enterprise 7-zone homelab (VMware · pfSense · Wazuh SIEM)
+  - Custom syslog decoder pipeline for pfSense filterlog events
+  - Web application pentest lab (DVWA · Burp Suite · OWASP)
+
+exploring:
+  - Threat intelligence feeds & IOC correlation
+  - Docker-based CTF challenge environments
+  - IKEv2 IPSec VPN analysis & packet inspection
+
+open_to:
+  - SOC Analyst (L1 / L2)
+  - Junior Penetration Tester
+  - Security Operations Internship @ MNC
+  - Cloud Security Engineer
+  - Remote or Palakkad/Kerala-based roles
+```
+
+---
+
+## `> git stats --global`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=CybNick&show_icons=true&theme=dark&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&border_color=CAFF3C&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=CybNick&show_icons=true&theme=dark&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&border_color=CAFF3C&count_private=true&include_all_commits=true&hide_border=false" />
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybNick&layout=compact&theme=dark&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&border_color=CAFF3C&langs_count=8" />
 
@@ -235,7 +254,7 @@
 
 ---
 
-## `$ gh trophy list --user CybNick`
+## `> trophy-case --display`
 
 <div align="center">
 
@@ -245,7 +264,7 @@
 
 ---
 
-## `$ git log --graph --all`
+## `> activity-graph --timeline`
 
 <div align="center">
 
@@ -255,7 +274,7 @@
 
 ---
 
-## `$ cat profile-summary.yml`
+## `> contribution-report --detailed`
 
 <div align="center">
 
@@ -273,7 +292,7 @@
 
 ---
 
-## `$ cron snake.svg`
+## `> ./snake-animation.sh`
 
 <div align="center">
 
@@ -283,49 +302,20 @@
 
 ---
 
-## `$ cat current-focus.yaml`
-
-```yaml
-current_focus:
-  learning:
-    - Wazuh advanced rule authoring & alert correlation
-    - pfSense firewall hardening & deep packet inspection
-    - OSCP / OffSec offensive security pathway
-    - AWS Security fundamentals & cloud threat detection
-  building:
-    - Enterprise 7-zone homelab (VMware · pfSense · Wazuh SIEM)
-    - Custom syslog decoder pipeline for pfSense filterlog events
-    - Web application pentest lab (DVWA · Burp Suite · OWASP)
-  exploring:
-    - Threat intelligence feeds & IOC correlation
-    - Docker-based CTF challenge environments
-    - IKEv2 IPSec VPN analysis & packet inspection
-  open_to:
-    - SOC Analyst (L1 / L2)
-    - Junior Security Engineer
-    - Junior Penetration Tester
-    - Cloud Security Engineer
-    - Security Operations Internship @ MNC
-```
-
----
-
-## `$ ssh-keygen -t connect`
+## `> ping me`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=CAFF3C)](https://www.linkedin.com/in/nikhilg7503/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=CAFF3C)](mailto:nikhilg7503@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Reach_Out-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=CAFF3C)](mailto:nikhilg7503@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-CybNick-0F1A0B?style=for-the-badge&logo=github&logoColor=CAFF3C&labelColor=0F1A0B)](https://github.com/CybNick)
 
 <br/>
 
-```
-"The more you sweat in training, the less you bleed in battle."
-```
+*// by day: security researcher & homelab architect | by night: shipping pentest labs & CTF challenges*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,10,15,8,0,202,255,60&height=100&section=footer&fontColor=CAFF3C" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f08,0d1a0b,162b10,0a0f08&height=120&section=footer&fontColor=CAFF3C" />
